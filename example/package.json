@@ -1,0 +1,13 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "To get this example follow the following steps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "PoLLeN <pollen@itsladybug.ml> (https://itsladybug.ml/)",
+  "license": "MIT"
+}

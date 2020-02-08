@@ -1,0 +1,25 @@
+{
+  "name": "statically-served",
+  "version": "0.0.1",
+  "description": "Serving Static files using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint .",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pollen5/statically-served.git"
+  },
+  "keywords": [
+    "static",
+    "serve",
+    "files"
+  ],
+  "author": "PoLLeN <pollen@itsladybug.ml> (https://itsladybug.ml/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pollen5/statically-served/issues"
+  },
+  "homepage": "https://github.com/pollen5/statically-served#readme"
+}
